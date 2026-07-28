@@ -1,0 +1,5 @@
+•Designed and developed a full-stack RAG application enabling users to query a document knowledge base and receive accurate, context-grounded answers.
+•Built the frontend with React.js for document upload and chat-based query interface; backend with Node.js/Express.js handling API orchestration.
+• Implemented a retrieval pipeline using LangChain to connect document embeddings, vector search, and OpenAI's GPT models for response generation.
+• Used PostgreSQL for application data (user sessions, document metadata, query history) alongside [Pinecone/ChromaDB/FAISS] for vector embeddings and semantic similarity search.
+•Applied prompt engineering techniques to optimize context injection, improve answer accuracy, and reduce hallucinations - Tech stack: React.js, Node.js, Express.js, PostgreSQL, LangChain, OpenAI API, pinecone,Qdrant.
